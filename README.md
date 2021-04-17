@@ -12,6 +12,7 @@ setting your .env file
 Then :
 ```
 php artisan migrate
+php artisan key:generate
 ```
 And install Laravel sanctum & configure :
 ```
