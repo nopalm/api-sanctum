@@ -14,11 +14,6 @@ Then :
 php artisan migrate
 php artisan key:generate
 ```
-And install Laravel sanctum & configure :
-```
-composer require laravel/sanctum
-```
-
 Url:
 ```
 http://127.0.0.1:8000/api/login
